@@ -13,5 +13,4 @@
 ```
 
 ## Workings
-#
 ### This will start the code. It will select random vehicles from car, bike and cngs for every user. Then it will calculate and show the fairs, and total distance and it will constantly print location of all the vehicles until it reaches the destination.
