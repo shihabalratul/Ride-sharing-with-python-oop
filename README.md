@@ -1,7 +1,6 @@
 # Ride sharing application with python oop
 
 ## How to run this project
----
 
 1. Install requirements from 'requirements.txt'
 ```
