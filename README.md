@@ -1,1 +1,3 @@
-# Ride_sharing_application_with_python_oop
+# Ride sharing application with python oop
+
+## How to run this project
